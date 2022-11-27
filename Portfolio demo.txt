@@ -1,0 +1,29 @@
+-------------------------------------------------------------------
+---------------------- My Portfolio demo and Skilled --------------
+-------------------------------------------------------------------
+# my skill list:
+1.HTML
+2.CSS
+3.javascript
+4.jquery
+5.Bootstrap
+6.React JS
+7. Material ui
+8.Node js
+9.Express js
+10.MongoDB
+
+#my some project demo
+1.https://vigilant-colden-d130dd.netlify.app/
+2.https://soheltanbir.github.io/E-commerce-website1/index.html
+3.https://soheltanbir.github.io/Appri-App-landing-page/
+4.https://soheltanbir.github.io/Doctor-portal1/
+5.https://soheltanbir.github.io/Noxia-website/index.html
+6.https://soheltanbir.github.io/Blogger-webiste/
+
+# React some Project demo 
+7.https://mobile-house-22431.web.app/
+8.https://competent-mccarthy-3eb620.netlify.app/
+9.https://amazing-bassi-bd1eff.netlify.app/
+10.https://soheltanbir.github.io/my-portfolio-website/index.html#portfolio
+11. https://rocketlaunche.netlify.app/
